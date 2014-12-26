@@ -407,7 +407,7 @@ def add_market(args):
         "command": [
             "create_pm", 
             args['decisionId'] + '.market', # PM_id
-            int(args["marketInv"]), # B
+            int(filter(lambda x: x not in [',','.'], args["marketInv"]), # B
             str(args["decisionId"]), # decision list
             "0,1", # states
             "0", # states_combinatory

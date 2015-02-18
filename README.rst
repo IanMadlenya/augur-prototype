@@ -41,6 +41,13 @@ Start the Augur client using ``augur_ctl``:
 Linux
 ^^^^^
 
+Try easy (but alpha) install with Docker
+
+* build: ``sudo docker build -t augur .``
+* run: ``sudo docker run -p 9000:9000 augur``
+
+or...
+
 So far, we have only tested augur on Ubuntu 12.04/14.04.  If you've tested it on another Linux distro, `let us know <mailto:team@augur.net>`__!
 
 First, you will need to install a few background packages using ``apt-get``:

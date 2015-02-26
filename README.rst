@@ -71,7 +71,7 @@ Start the Augur client using ``augur_ctl``:
 Windows
 ^^^^^^^
 
-Windows installer: `Augur_0.1.1.exe <http://augur.link/Augur_0.1.1.exe>`__
+Windows installer: `Augur_0.3.2.exe <http://augur.link/Augur_0.3.2.exe>`__
 
 After running the installer, click on your Start Menu, navigate to the Augur application folder, then click on Augur.  A command window should appear, containing some debugging information, and saying that Augur is running on ``http://localhost:9000``.  Open your web browser and enter ``http://localhost:9000`` in the address bar, and you should be up and running.
 

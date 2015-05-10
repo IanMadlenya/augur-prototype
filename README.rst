@@ -1,6 +1,10 @@
 Augur: decentralized prediction markets
 ---------------------------------------
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/AugurProject/augur
+   :target: https://gitter.im/AugurProject/augur?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://travis-ci.org/AugurProject/augur.svg
     :target: https://travis-ci.org/AugurProject/augur
 
